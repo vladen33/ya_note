@@ -1,1 +1,0 @@
-from pytest_django.asserts import assertRedirects
